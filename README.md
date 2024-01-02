@@ -1,2 +1,2 @@
 # LightOj_Solution
-Math,Graph 
+Math,Graph,Number theory,Advanced datastructure
